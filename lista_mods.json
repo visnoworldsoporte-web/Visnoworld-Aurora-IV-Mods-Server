@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Estacion Rock Espacial",
+    "autor": "Admin_Discord",
+    "version": "1.0.0",
+    "descripcion": "Inyecta 5 pistas .ogg pesadas libres de derechos para la radio de la colonia.",
+    "url_zip": "https://githubusercontent.com"
+  },
+  {
+    "nombre": "Texturas Suelo visnoworld ",
+    "autor": "Disenador_1",
+    "version": "1.1.0",
+    "descripcion": "Cambia el césped base por los tiles limpios de 64x64 de Screaming Brain.",
+    "url_zip": "https://githubusercontent.com"
+  }
+]
